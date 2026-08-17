@@ -11,4 +11,4 @@ Este projeto segue o padrao de Versionamento Semantico (SemVer), no formato MAJO
 - MINOR: incrementado quando novas funcionalidades sao adicionadas de forma compativel com versoes anteriores.
 - PATCH: incrementado quando sao feitas correcoes de bugs compativeis com versoes anteriores.
 
-A versao atual do projeto e v1.0.0, representando a primeira versao estavel publicada.
+A versao inicial do projeto foi v1.0.0, representando a primeira versao estavel publicada. A versao atual e v1.0.3, incluindo os ajustes documentais posteriores.
